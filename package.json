@@ -1,0 +1,12 @@
+{
+  "name": "sigil-node",
+  "version": "0.0.1",
+  "description": "Client library for the SIGIL database.",
+  "author": {
+    "name": "Cyle Gage",
+    "email": "cylegage@gmail.com"
+  },
+  "main": "./lib/sigil-node",
+  "readmeFilename": "README.md",
+  "_id": "sigil-node@0.0.1",
+}
