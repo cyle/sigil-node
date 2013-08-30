@@ -1,5 +1,5 @@
 {
-  "name": "sigil-node",
+  "name": "sigil",
   "version": "0.0.1",
   "description": "Client library for the SIGIL database.",
   "author": {
@@ -8,5 +8,5 @@
   },
   "main": "./lib/sigil-node",
   "readmeFilename": "README.md",
-  "_id": "sigil-node@0.0.1",
+  "_id": "sigil@0.0.1",
 }
