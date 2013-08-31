@@ -1,6 +1,6 @@
 # sigil-node
 
-A client library for talking to the SIGIL spatial and graph database.
+A client library for talking to the [SIGIL](https://github.com/cyle/sigil) spatial and graph database.
 
 ## Installing
 

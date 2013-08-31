@@ -1,6 +1,6 @@
 {
   "name": "sigil",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Client library for the SIGIL database.",
   "homepage": "https://github.com/cyle/sigil-node",
   "keywords": [ "sigil", "graph", "database", "spatial" ],
